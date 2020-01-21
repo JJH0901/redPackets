@@ -1,6 +1,6 @@
 {
   "name": "redpackets",
-  "version": "1.0.9",
+  "version": "2.0.3",
   "description": "Taro实现微信小程序红包雨效果",
   "main": "src/index.js",
   "author": "贾建辉",
