@@ -3,6 +3,7 @@
 使用方式
 
 npm install redpackets --save-dev
+
 import RedPackets from 'redpackets'
 
 <RedPackets 
@@ -13,4 +14,5 @@ import RedPackets from 'redpackets'
 参数
 
 show：boolean，是否显示红包雨，true--显示；false--不显示
+
 count：number，红包雨数量
